@@ -1,4 +1,5 @@
 # vue-crash
+Project created following [Vue Crash course](https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=2729s)
 
 ## Project setup
 ```
